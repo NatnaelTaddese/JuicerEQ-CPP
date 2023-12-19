@@ -3,9 +3,8 @@
     "",
     "\\JuicerEQ",
     "\\JuicerEQ\\Builds",
-    "\\JuicerEQ\\Builds\\VisualStudio2022",
-    "\\JuicerEQ\\Source"
+    "\\JuicerEQ\\Builds\\VisualStudio2022"
   ],
-  "SelectedNode": "\\JuicerEQ\\Builds\\VisualStudio2022\\JuicerEQ.sln",
+  "SelectedNode": "\\JuicerEQ\\Builds\\VisualStudio2022\\JuicerEQ_StandalonePlugin.vcxproj",
   "PreviewInSolutionExplorer": false
 }
